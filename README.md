@@ -1,4 +1,4 @@
-# 🌀 Patrones Java - Programas y Retos Sencillos
+# 🌀 Repasando Java - Programas y Retos Sencillos
 
 Este repositorio está diseñado para facilitar la práctica y revisión de conceptos fundamentales en Java a través de programas y retos sencillos. Aquí encontrarás una colección de ejercicios que te ayudarán a repasar aspectos clave del lenguaje, especialmente el uso de bucles.
 
