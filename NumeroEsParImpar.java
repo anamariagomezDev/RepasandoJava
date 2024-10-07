@@ -1,7 +1,5 @@
 import java.util.Scanner;  // Importamos la clase Scanner para poder leer la entrada del usuario
 
-import java.util.Scanner;  // Importamos la clase Scanner para poder leer la entrada del usuario
-
 public class NumeroEsParImpar {
 
     public static void main(String[] args) {
