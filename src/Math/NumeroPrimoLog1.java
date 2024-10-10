@@ -4,6 +4,21 @@ import java.util.Scanner;  // Importamos la clase Scanner para poder leer la ent
 
 public class NumeroPrimoLog1 {
 
+    /*
+    Un número primo es un número natural mayor que 1 que solo puede ser dividido sin dejar un
+    residuo por dos números: 1 y él mismo. En otras palabras, un número primo tiene exactamente
+    dos divisores distintos.
+
+    Por ejemplo:
+
+    2 es un número primo porque solo puede ser dividido por 1 y 2.
+
+    3 también es primo porque solo puede ser dividido por 1 y 3.
+
+    4 no es un número primo porque puede ser dividido por 1, 2 y 4; tiene tres divisores.
+
+     */
+
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
